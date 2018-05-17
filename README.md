@@ -1,2 +1,2 @@
 # textMining
-Repositório em R para mineração de dados
+Repositório para mineração de dados com R
